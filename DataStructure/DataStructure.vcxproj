@@ -130,6 +130,8 @@
     <ClCompile Include="main.c" />
     <ClCompile Include="printALL.c" />
     <ClCompile Include="sorting\bubblesort.c" />
+    <ClCompile Include="sorting\insertion_sort.c" />
+    <ClCompile Include="sorting\selection_sort.c" />
     <ClCompile Include="swap.c" />
   </ItemGroup>
   <ItemGroup>

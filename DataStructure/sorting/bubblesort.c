@@ -2,6 +2,8 @@
 //		  2. 배열의 크기
 // output: 배열을 오름차순으로 정렬
 
+
+/*
 void bubblesort(int* arr, int size)
 {
 	int i, j;
@@ -16,3 +18,4 @@ void bubblesort(int* arr, int size)
 		}
 	}
 }
+*/

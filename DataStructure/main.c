@@ -4,16 +4,14 @@
 void main(void)
 {
 	int data[arr_len];
-	int len = arr_len + 1;
+	int num;
 
 	for (int i = 0; i < arr_len; i++)
 	{
 		scanf_s("%d", &data[i]);
 	}
 
-	bubblesort(data, arr_len);
-	
-	printALL(data, arr_len);
+	insertion_sort(data, arr_len);
 
-	return;
+	printALL(data, arr_len);
 }
