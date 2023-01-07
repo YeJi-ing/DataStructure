@@ -11,7 +11,8 @@ void main(void)
 		scanf_s("%d", &data[i]);
 	}
 
-	insertion_sort(data, arr_len);
+
+	quick_sort(data, 0, 1, arr_len - 1);
 
 	printALL(data, arr_len);
 }

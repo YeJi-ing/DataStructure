@@ -2,7 +2,7 @@
 //		  2. 배열의 크기
 // output: 배열을 오름차순으로 정렬
 
-///*
+/*
 void insertion_sort(int* arr, int last_idx)
 {
 	int i;
@@ -21,4 +21,4 @@ void insertion_sort(int* arr, int last_idx)
 
 	return;
 }
-//s*/
+*/
