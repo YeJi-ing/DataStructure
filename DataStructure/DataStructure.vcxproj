@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DLLnode\addToDLL.c" />
+    <ClCompile Include="DLLnode\InsertToDLL.c" />
+    <ClCompile Include="DLLnode\PrintDLL.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="printALL.c" />
     <ClCompile Include="sorting\bubblesort.c" />
