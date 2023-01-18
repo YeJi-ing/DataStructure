@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DLLnode\addToDLL.c" />
+    <ClCompile Include="DLLnode\del_FromDLL.c" />
     <ClCompile Include="DLLnode\InsertToDLL.c" />
     <ClCompile Include="DLLnode\PrintDLL.c" />
     <ClCompile Include="main.c" />

@@ -45,6 +45,9 @@
     <ClCompile Include="DLLnode\PrintDLL.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="DLLnode\del_FromDLL.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
