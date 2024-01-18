@@ -1,22 +1,24 @@
 # DataStructure
 수업 내용 정리
 
-## Sorting
+## Array
+### Sorting
 - [ ] `bubble sort`
 - [ ] `selection sort`
 - [ ] `insertion sort`
 - [ ] `quick sort`
 
+# Linked List
+- [ ] `SLL node`
+- [ ] `DLL node`
+
 ## Stack 
 
 ## Queue
 
-## Hashing 
+## Hash Table
+### Hashing 
 
-## Recursion
-
-## Binary tree
-
-## SLL node
-
-## DLL node
+## Tree & Graph
+- [ ] 'Binary tree'
+- [ ]  'Recursion'
