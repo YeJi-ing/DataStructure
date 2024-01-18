@@ -1,5 +1,4 @@
 # DataStructure
-수업 내용 정리
 
 ## Array
 ### Sorting
@@ -8,7 +7,7 @@
 - [ ] `insertion sort`
 - [ ] `quick sort`
 
-# Linked List
+## Linked List
 - [ ] `SLL node`
 - [ ] `DLL node`
 
@@ -17,7 +16,7 @@
 ## Queue
 
 ## Hash Table
-### Hashing 
+- [ ] 'Hashing' 
 
 ## Tree & Graph
 - [ ] 'Binary tree'
