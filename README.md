@@ -16,8 +16,8 @@
 ## Queue
 
 ## Hash Table
-- [ ] 'Hashing' 
+- [ ] `Hashing`
 
 ## Tree & Graph
-- [ ] 'Binary tree'
-- [ ]  'Recursion'
+- [ ] `Binary tree`
+- [ ] `Recursion`
